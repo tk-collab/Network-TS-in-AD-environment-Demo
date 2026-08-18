@@ -4,7 +4,7 @@
 ## Window Server 2025 (Server)
 - DNS Server: corp.example.com
 ## Windows 11 enterprise (Client)
-## Things I noticed
+## Things I noticed and I reminded.
 - OU and Security Group are different things each other.  
   - OU: Object which GPO is applied to.  
   - Security Group: Object which authorization is applied to.
