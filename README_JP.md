@@ -1,6 +1,7 @@
 # Network-TS-in-AD-environment-Demo
 ## Virtualization Environment
 - VirtualBox
+- GNS3
 ## Window Server 2025 (Server)
 - DNS Server: corp.example.com
 ## Windows 11 enterprise (Client)
