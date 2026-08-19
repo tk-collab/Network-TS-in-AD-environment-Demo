@@ -1,12 +1,13 @@
 # Network-TS-in-AD-environment-Demo
 ## Virtualization Environment
 - VirtualBox
-- GNS3
-<img width="816" height="493" alt="Network-TS-In-AD environment" src="https://github.com/user-attachments/assets/99d92e80-6270-49f8-99e8-72399b42bca7" />
+- GNS3  
+![スクリーンショット](https://github.com/user-attachments/assets/9ff90365-6cb5-4849-836a-6404132f1a12)
 
-## Window Server 2025 (Server)
-- DNS Server: corp.example.com
-## Windows 11 enterprise (Client)
+## Results  
+![スクリーンショット](https://github.com/user-attachments/assets/6e7ae544-ac60-4b51-b26b-4180f86653f4)
+![スクリーンショット](https://github.com/user-attachments/assets/0f92d431-b4a5-43d4-b46a-0c991bb0f846)
+
 ## Things I noticed and I reminded.
 - OU and Security Group are different things each other.  
   - OU: Object which GPO is applied to.  
