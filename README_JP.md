@@ -2,6 +2,8 @@
 ## Virtualization Environment
 - VirtualBox
 - GNS3
+<img width="816" height="493" alt="Network-TS-In-AD environment" src="https://github.com/user-attachments/assets/b4d69749-de35-4035-b3e9-e3573893eefd" />
+
 ## Window Server 2025 (Server)
 - DNS Server: corp.example.com
 ## Windows 11 enterprise (Client)
