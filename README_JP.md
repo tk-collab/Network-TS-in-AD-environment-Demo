@@ -4,9 +4,10 @@
 - GNS3
 <img width="816" height="493" alt="Network-TS-In-AD environment" src="https://github.com/user-attachments/assets/b4d69749-de35-4035-b3e9-e3573893eefd" />
 
-## Window Server 2025 (Server)
-- DNS Server: corp.example.com
-## Windows 11 enterprise (Client)
+## 結果
+![スクリーンショット](https://github.com/user-attachments/assets/6e7ae544-ac60-4b51-b26b-4180f86653f4)
+![スクリーンショット](https://github.com/user-attachments/assets/0f92d431-b4a5-43d4-b46a-0c991bb0f846)
+
 ## 気づいたこと/思い出したこと
 - OUとセキュリティグループは別物  
     - OU: GPOを適用する単位  
