@@ -13,6 +13,10 @@
 ![スクリーンショット](https://github.com/user-attachments/assets/256e5c3d-834c-4e6e-8a94-067ebd0525d4)
 ![スクリーンショット](https://github.com/user-attachments/assets/571b51ad-77cb-4ecf-9b33-bfaafba36d7d)
 
+-ACL確認  
+![スクリーンショット](https://github.com/user-attachments/assets/de8c772c-c833-42b2-9fd6-de6a7ca373e6)
+![スクリーンショット](https://github.com/user-attachments/assets/b4f40163-5aba-4298-8b59-a83b4476d351)
+
 ## 気づいたこと/思い出したこと
 - OUとセキュリティグループは別物  
     - OU: GPOを適用する単位  
