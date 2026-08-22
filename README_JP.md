@@ -2,11 +2,16 @@
 ## Virtualization Environment
 - VirtualBox
 - GNS3
-<img width="816" height="493" alt="Network-TS-In-AD environment" src="https://github.com/user-attachments/assets/b4d69749-de35-4035-b3e9-e3573893eefd" />
+![スクリーンショット](https://github.com/user-attachments/assets/055b24c8-8146-479d-980b-ce9fed9e9922)
 
 ## 結果
+-AD確認
 ![スクリーンショット](https://github.com/user-attachments/assets/6e7ae544-ac60-4b51-b26b-4180f86653f4)
 ![スクリーンショット](https://github.com/user-attachments/assets/0f92d431-b4a5-43d4-b46a-0c991bb0f846)
+
+-OSPF確認  
+![スクリーンショット](https://github.com/user-attachments/assets/256e5c3d-834c-4e6e-8a94-067ebd0525d4)
+![スクリーンショット](https://github.com/user-attachments/assets/571b51ad-77cb-4ecf-9b33-bfaafba36d7d)
 
 ## 気づいたこと/思い出したこと
 - OUとセキュリティグループは別物  
