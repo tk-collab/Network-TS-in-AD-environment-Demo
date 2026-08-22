@@ -24,3 +24,4 @@
 - Put ".\\" on the top when logging in as localadmin because it doesn't belong a domain.
 - Copy running config to startup config when rebooting cisco router.
 - Physical interface not assigned to any IP address when using dot1q.
+- Advertise outside destination to inside routers as default route when configuring NAT. 
