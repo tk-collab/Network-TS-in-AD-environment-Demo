@@ -2,7 +2,7 @@
 ## Virtualization Environment
 - VirtualBox
 - GNS3
-![スクリーンショット](https://github.com/user-attachments/assets/055b24c8-8146-479d-980b-ce9fed9e9922)
+![スクリーンショット](https://github.com/user-attachments/assets/7ce7cbe8-79c8-4bf3-ae76-b4f82cef6b10)
 
 ## 結果
 -AD確認
@@ -14,8 +14,12 @@
 ![スクリーンショット](https://github.com/user-attachments/assets/571b51ad-77cb-4ecf-9b33-bfaafba36d7d)
 
 -ACL確認  
+
 ![スクリーンショット](https://github.com/user-attachments/assets/de8c772c-c833-42b2-9fd6-de6a7ca373e6)
 ![スクリーンショット](https://github.com/user-attachments/assets/b4f40163-5aba-4298-8b59-a83b4476d351)
+
+-NAT確認  
+![スクリーンショット](https://github.com/user-attachments/assets/64160931-798a-441d-8503-ead06a5a9cd5)
 
 ## 気づいたこと/思い出したこと
 - OUとセキュリティグループは別物  
@@ -24,3 +28,4 @@
 - localadminでログインする時はドメインに属さないから必ず.\付ける。
 - Cisco routerは再起動する時はrunning configからstartup configにcopy必須
 - dot1qを使う時は物理interfaceにはIPを持たせない
+- NATを設定する時はデフォルトルートとして内部ルーターに広告する
