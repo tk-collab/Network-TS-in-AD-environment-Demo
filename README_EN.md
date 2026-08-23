@@ -17,6 +17,9 @@
 ![スクリーンショット](https://github.com/user-attachments/assets/de8c772c-c833-42b2-9fd6-de6a7ca373e6)
 ![スクリーンショット](https://github.com/user-attachments/assets/b4f40163-5aba-4298-8b59-a83b4476d351)
 
+-NAT confirmation  
+![スクリーンショット](https://github.com/user-attachments/assets/5f25c276-c24d-4f0b-a2b4-5f17b7ff1f52)
+
 ## Things I noticed and I reminded.
 - OU and Security Group are different things each other.  
   - OU: Object which GPO is applied to.  
