@@ -21,6 +21,27 @@
 -NAT確認  
 ![スクリーンショット](https://github.com/user-attachments/assets/64160931-798a-441d-8503-ead06a5a9cd5)
 
+-wireshark確認  
+Arp  
+317	4.058676	Private_66:68:02	Broadcast	ARP	68	Who has 192.168.30.1? Tell 192.168.30.10  
+318	0.015342	c4:01:44:30:00:00	Private_66:68:02	ARP	64	192.168.30.1 is at c4:01:44:30:00:00
+
+Icmp  
+49	0.894836	192.168.30.10	192.168.20.1	ICMP	98	Echo (ping) request  id=0x52f1, seq=1/256, ttl=63 (reply in 50)  
+50	0.016229	192.168.20.1	192.168.30.10	ICMP	98	Echo (ping) reply    id=0x52f1, seq=1/256, ttl=255 (request in 49)  
+51	1.049250	192.168.30.10	192.168.20.1	ICMP	98	Echo (ping) request  id=0x53f1, seq=2/512, ttl=63 (reply in 52)  
+52	0.015682	192.168.20.1	192.168.30.10	ICMP	98	Echo (ping) reply    id=0x53f1, seq=2/512, ttl=255 (request in 51)  
+53	1.053028	192.168.30.10	192.168.20.1	ICMP	98	Echo (ping) request  id=0x54f1, seq=3/768, ttl=63 (reply in 54)  
+54	0.014881	192.168.20.1	192.168.30.10	ICMP	98	Echo (ping) reply    id=0x54f1, seq=3/768, ttl=255 (request in 53)  
+55	1.056545	192.168.30.10	192.168.20.1	ICMP	98	Echo (ping) request  id=0x55f1, seq=4/1024, ttl=63 (reply in 56)  
+56	0.016173	192.168.20.1	192.168.30.10	ICMP	98	Echo (ping) reply    id=0x55f1, seq=4/1024, ttl=255 (request in 55)  
+58	0.999816	192.168.30.10	192.168.20.1	ICMP	98	Echo (ping) request  id=0x56f1, seq=5/1280, ttl=63 (reply in 59)  
+59	0.016342	192.168.20.1	192.168.30.10	ICMP	98	Echo (ping) reply    id=0x56f1, seq=5/1280, ttl=255 (request in 58)  
+
+Ospf (Hello)  
+![スクリーンショット](https://github.com/user-attachments/assets/d3762172-c755-4431-9d76-b090c5672d65)
+![スクリーンショット](https://github.com/user-attachments/assets/3f8cbaf8-1aa6-4539-bcac-d031945df1a2)
+
 ## 気づいたこと/思い出したこと
 - OUとセキュリティグループは別物  
     - OU: GPOを適用する単位  
