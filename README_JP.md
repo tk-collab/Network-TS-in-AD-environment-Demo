@@ -48,5 +48,6 @@ Ospf (Hello)
     - セキュリティグループ: まとめて権限を付与するときの単位  
 - localadminでログインする時はドメインに属さないから必ず.\付ける。
 - Cisco routerは再起動する時はrunning configからstartup configにcopy必須
+- ADサーバーのNICが生きていないとLDAPは使えない
 - dot1qを使う時は物理interfaceにはIPを持たせない
 - NATを設定する時はデフォルトルートとして内部ルーターに広告する
