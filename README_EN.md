@@ -2,7 +2,7 @@
 ## Virtualization Environment
 - VirtualBox
 - GNS3  
-![スクリーンショット](https://github.com/user-attachments/assets/f01112bd-90aa-4ee8-b6ae-febdc65423ef)
+![スクリーンショット](https://github.com/user-attachments/assets/4dfc51a0-73f1-4e92-b63c-2db946ad162a)
 
 ## Results
 -AD confirmation  
@@ -40,6 +40,10 @@ Icmp
 Ospf (Hello)  
 ![スクリーンショット](https://github.com/user-attachments/assets/d3762172-c755-4431-9d76-b090c5672d65)
 ![スクリーンショット](https://github.com/user-attachments/assets/3f8cbaf8-1aa6-4539-bcac-d031945df1a2)
+
+Dhcp  <img width="1260" height="500" alt="Network-TS-In-AD environment" src="https://github.com/user-attachments/assets/01f3fa93-1ccf-4adc-b2b3-ce07e3de371c" />
+
+![スクリーンショット](https://github.com/user-attachments/assets/0676cc50-c37b-4635-9e5a-86140b6b348a)
 
 ## Things I noticed and I reminded.
 - OU and Security Group are different things each other.  
