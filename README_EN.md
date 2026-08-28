@@ -41,7 +41,7 @@ Ospf (Hello)
 ![スクリーンショット](https://github.com/user-attachments/assets/d3762172-c755-4431-9d76-b090c5672d65)
 ![スクリーンショット](https://github.com/user-attachments/assets/3f8cbaf8-1aa6-4539-bcac-d031945df1a2)
 
-Dhcp  <img width="1260" height="500" alt="Network-TS-In-AD environment" src="https://github.com/user-attachments/assets/01f3fa93-1ccf-4adc-b2b3-ce07e3de371c" />
+Dhcp  
 
 ![スクリーンショット](https://github.com/user-attachments/assets/0676cc50-c37b-4635-9e5a-86140b6b348a)
 
