@@ -49,9 +49,7 @@ Dhcp
 - OU and Security Group are different things each other.  
   - OU: Object which GPO is applied to.  
   - Security Group: Object which authorization is applied to.
-- Put ".\\" on the top when logging in as locala317	4.058676	Private_66:68:02	Broadcast	ARP	68	Who has 192.168.30.1? Tell 192.168.30.10
-318	0.015342	c4:01:44:30:00:00	Private_66:68:02	ARP	64	192.168.30.1 is at c4:01:44:30:00:00
-dmin because it doesn't belong a domain.
+- Put ".\\" on the top when logging in as localadmin because it doesn't belong a domain.
 - Copy running config to startup config when rebooting cisco router.
 - Physical interface not assigned to any IP address when using dot1q.
 - Advertise outside destination to inside routers as default route when configuring NAT.
