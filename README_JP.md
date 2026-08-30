@@ -42,6 +42,9 @@ Ospf (Hello)
 ![スクリーンショット](https://github.com/user-attachments/assets/d3762172-c755-4431-9d76-b090c5672d65)
 ![スクリーンショット](https://github.com/user-attachments/assets/3f8cbaf8-1aa6-4539-bcac-d031945df1a2)
 
+Dhcp  
+![スクリーンショット](https://github.com/user-attachments/assets/bca7c06e-eaea-4a13-88d1-0372e18d03e4)
+
 ## 気づいたこと/思い出したこと
 - OUとセキュリティグループは別物  
     - OU: GPOを適用する単位  
