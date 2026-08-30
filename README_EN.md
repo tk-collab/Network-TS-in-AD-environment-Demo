@@ -42,7 +42,6 @@ Ospf (Hello)
 ![スクリーンショット](https://github.com/user-attachments/assets/3f8cbaf8-1aa6-4539-bcac-d031945df1a2)
 
 Dhcp  
-
 ![スクリーンショット](https://github.com/user-attachments/assets/0676cc50-c37b-4635-9e5a-86140b6b348a)
 
 ## Things I noticed and I reminded.
