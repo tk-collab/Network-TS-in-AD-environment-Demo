@@ -2,7 +2,7 @@
 ## Virtualization Environment
 - VirtualBox
 - GNS3  
-![スクリーンショット](https://github.com/user-attachments/assets/7baa1fa7-9150-409e-8f00-fd65e754d811)
+![スクリーンショット](https://github.com/user-attachments/assets/c68eed9e-d7f6-4b27-b741-392245a239bc)
 
 ## Results
 -AD confirmation  
