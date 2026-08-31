@@ -2,7 +2,7 @@
 ## Virtualization Environment
 - VirtualBox
 - GNS3  
-![スクリーンショット](https://github.com/user-attachments/assets/4dfc51a0-73f1-4e92-b63c-2db946ad162a)
+![スクリーンショット](https://github.com/user-attachments/assets/7baa1fa7-9150-409e-8f00-fd65e754d811)
 
 ## Results
 -AD confirmation  
@@ -53,4 +53,5 @@ Dhcp
 - Physical interface not assigned to any IP address when using dot1q.
 - Advertise outside destination to inside routers as default route when configuring NAT.
 - Check if NIC of AD server is connected or not when we use LDAP port.
+- Check another TTY even if it looks frozen in case of Linux OS.
 
