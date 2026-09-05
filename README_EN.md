@@ -44,6 +44,16 @@ Ospf (Hello)
 Dhcp  
 ![スクリーンショット](https://github.com/user-attachments/assets/0676cc50-c37b-4635-9e5a-86140b6b348a)
 
+-Syslog(/etc/rsyslog.d/10-remote.conf)  
+```text
+module(load="imudp")  #Receive as UDP
+input(type="imudp" port="514")  #Await as UDP via 514 port
+
+if ($fromhost-ip != "127.0.0.1") then {
+    action(type="omfile" file="/var/log/remote-syslog.log")
+    stop
+}
+```
 ## Things I noticed and I reminded.
 - OU and Security Group are different things each other.  
   - OU: Object which GPO is applied to.  
