@@ -64,4 +64,5 @@ if ($fromhost-ip != "127.0.0.1") then {
 - Advertise outside destination to inside routers as default route when configuring NAT.
 - Check if NIC of AD server is connected or not when we use LDAP port.
 - Check another TTY even if it looks frozen in case of Linux OS.
+- The Well known port of Syslog is 514.
 
