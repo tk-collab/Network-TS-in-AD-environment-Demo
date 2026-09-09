@@ -65,4 +65,5 @@ if ($fromhost-ip != "127.0.0.1") then {
 - Check if NIC of AD server is connected or not when we use LDAP port.
 - Check another TTY even if it looks frozen in case of Linux OS.
 - The Well known port of Syslog is 514.
+- Linux command "tail" show logs of the path identified.
 
