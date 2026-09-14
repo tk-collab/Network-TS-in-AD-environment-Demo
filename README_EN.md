@@ -66,4 +66,4 @@ if ($fromhost-ip != "127.0.0.1") then {
 - Check another TTY even if it looks frozen in case of Linux OS.
 - The Well known port of Syslog is 514.
 - Linux command "tail" show logs of the path identified.
-
+- "apt" is used on Ubuntu or Debian to install, update or remove packages.
