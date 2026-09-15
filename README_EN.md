@@ -54,7 +54,7 @@ if ($fromhost-ip != "127.0.0.1") then {
     stop
 }
 ```
-## Things I noticed and I reminded.
+## Things I noticed and remembered.
 - OU and Security Group are different things each other.  
   - OU: Object which GPO is applied to.  
   - Security Group: Object which authorization is applied to.
