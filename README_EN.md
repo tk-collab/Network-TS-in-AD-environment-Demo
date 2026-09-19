@@ -67,3 +67,4 @@ if ($fromhost-ip != "127.0.0.1") then {
 - The Well known port of Syslog is 514.
 - Linux command "tail" show logs of the path identified.
 - "apt" is used on Ubuntu or Debian to install, update or remove packages.
+- Edit Netplan when adding a network adapter in Ubuntu.
