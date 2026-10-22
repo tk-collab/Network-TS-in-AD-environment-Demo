@@ -69,3 +69,4 @@ if ($fromhost-ip != "127.0.0.1") then {
 - "apt" is used on Ubuntu or Debian to install, update or remove packages.
 - Edit Netplan when adding a network adapter in Ubuntu.
 - Update Ubuntu package repository with apt command before installing packages.
+- DSRM stands for Directry Service Recovery Mode. Therefore, it doesn't mean domain account.
