@@ -70,3 +70,4 @@ if ($fromhost-ip != "127.0.0.1") then {
 - Edit Netplan when adding a network adapter in Ubuntu.
 - Update Ubuntu package repository with apt command before installing packages.
 - DSRM stands for Directry Service Recovery Mode. Therefore, it doesn't mean domain account.
+- The port number of LDAP is "389".
