@@ -8,6 +8,7 @@
 -AD confirmation  
 ![スクリーンショット](https://github.com/user-attachments/assets/0caefdd8-40b5-44b1-aa25-a676dad843d0)
 ![スクリーンショット](https://github.com/user-attachments/assets/98a31d9e-942d-45db-878a-d51c9325370e)
+![スクリーンショット](https://github.com/user-attachments/assets/08e65991-9e57-4fd6-9a0f-f73f25df5cf5)
 
 -OSPF confirmation  
 ![スクリーンショット](https://github.com/user-attachments/assets/1f3d29cc-0e6e-49c9-aa92-9c850240d4ef)
