@@ -28,6 +28,21 @@ Extended IP access list BLOCK_PC1_TO_PC2
     20 permit ip any any
 ```
 The number of matches increases.
+```text
+R1#configure terminal
+Enter configuration commands, one per line.  End with CNTL/Z.
+R1(config)#ip access-list extended BLOCK_PC1_TO_PC2
+R1(config-ext-nacl)#no 10
+```
+```text
+PC1> ping 192.168.20.10
+84 bytes from 192.168.20.10 icmp_seq=1 ttl=62 time=32.765 ms
+84 bytes from 192.168.20.10 icmp_seq=2 ttl=62 time=37.648 ms
+84 bytes from 192.168.20.10 icmp_seq=3 ttl=62 time=37.899 ms
+84 bytes from 192.168.20.10 icmp_seq=4 ttl=62 time=36.728 ms
+84 bytes from 192.168.20.10 icmp_seq=5 ttl=62 time=37.708 ms
+```
+Once we delete the ACL ping become successful.
 
 -NAT confirmation  
 ![スクリーンショット](https://github.com/user-attachments/assets/5f25c276-c24d-4f0b-a2b4-5f17b7ff1f52)
