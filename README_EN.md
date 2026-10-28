@@ -20,8 +20,14 @@
 ![スクリーンショット](https://github.com/user-attachments/assets/c2e3c0b6-5a52-4586-8490-223ff98d4b34)
 
 -ACL confirmation  
-![スクリーンショット](https://github.com/user-attachments/assets/de8c772c-c833-42b2-9fd6-de6a7ca373e6)
-![スクリーンショット](https://github.com/user-attachments/assets/b4f40163-5aba-4298-8b59-a83b4476d351)
+![スクリーンショット](https://github.com/user-attachments/assets/de8c772c-c833-42b2-9fd6-de6a7ca373e6)  
+```text
+R1#show access-lists
+Extended IP access list BLOCK_PC1_TO_PC2
+    10 deny ip host 192.168.10.10 host 192.168.20.10 (15 matches)
+    20 permit ip any any
+```
+The number of matches increases.
 
 -NAT confirmation  
 ![スクリーンショット](https://github.com/user-attachments/assets/5f25c276-c24d-4f0b-a2b4-5f17b7ff1f52)
