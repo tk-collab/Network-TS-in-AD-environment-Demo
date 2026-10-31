@@ -10,6 +10,7 @@
 ![スクリーンショット](https://github.com/user-attachments/assets/98a31d9e-942d-45db-878a-d51c9325370e)
 ![スクリーンショット](https://github.com/user-attachments/assets/08e65991-9e57-4fd6-9a0f-f73f25df5cf5)
 ![スクリーンショット](https://github.com/user-attachments/assets/8066b283-088f-4a64-a4bc-2a7d9e0fffa9)
+    - nslookup was partially timeout. But finally obtain the domain. This remains as leftover task.
 ![スクリーンショット](https://github.com/user-attachments/assets/418458e1-eef3-46d7-b1a7-54d977a1dcfa)
 ![スクリーンショット](https://github.com/user-attachments/assets/613c20bb-e1cf-4ac2-a220-e8c1f39695d4)
 ![スクリーンショット](https://github.com/user-attachments/assets/d0e35c79-2ef1-457a-b38b-748a2736403e)
