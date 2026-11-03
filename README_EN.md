@@ -106,6 +106,7 @@ Once we delete the ACL ping become successful.
 - Linux command "tail" show logs of the path identified.
 - "apt" is used on Ubuntu or Debian to install, update or remove packages.
 - Edit Netplan when adding a network adapter in Ubuntu.
+- Ordinally don't set OSPF to ISP router.
 - Update Ubuntu package repository with apt command before installing packages.
 - DSRM stands for Directry Service Recovery Mode. Therefore, it doesn't mean domain account.
 - The port number of LDAP is "389".
