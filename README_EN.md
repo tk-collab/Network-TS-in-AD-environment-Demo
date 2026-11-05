@@ -90,7 +90,9 @@ Once we delete the ACL ping become successful.
     - Confirm on the Syslog server
     ![スクリーンショット](https://github.com/user-attachments/assets/8e80e1c3-11fb-4d12-871c-d8f0b3260a97)
 - Credential Guard
-    - Credential Guard is not available due to VBS not available for Virtual Box restriction. 
+    - Credential Guard is not available due to VBS not available for Virtual Box restriction.
+- Always On VPN Device Tunnel
+    - Install ADCS
 
 ## Things I noticed and remembered.
 - OU and Security Group are different things each other.  
