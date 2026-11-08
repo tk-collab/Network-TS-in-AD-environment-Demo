@@ -114,3 +114,4 @@ Once we delete the ACL ping become successful.
 - Update Ubuntu package repository with apt command before installing packages.
 - DSRM stands for Directry Service Recovery Mode. Therefore, it doesn't mean domain account.
 - The port number of LDAP is "389".
+- Meet adapter type of virtual box to keep domain maintain.
