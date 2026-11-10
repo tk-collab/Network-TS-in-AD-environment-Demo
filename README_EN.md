@@ -93,7 +93,7 @@ Once we delete the ACL ping become successful.
     - Credential Guard is not available due to VBS not available for Virtual Box restriction.
 - Always On VPN Device Tunnel
     - Install ADCS
-    - Request VPN certificate
+    - Register Computer certificate
         - ***Stucked here for a few hours!!***: Even though I try to click "request a new certificate" many times, any certificate are not found. After several hours of struggle, finally I found that when we start certlm.msc we need to execute with domain administrator priviledge.
 
 ## Things I noticed and remembered.
