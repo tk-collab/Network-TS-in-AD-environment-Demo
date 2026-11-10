@@ -115,4 +115,4 @@ Once we delete the ACL ping become successful.
 - DSRM stands for Directry Service Recovery Mode. Therefore, it doesn't mean domain account.
 - The port number of LDAP is "389".
 - Meet adapter type of virtual box to keep domain maintain.
-- Adding Adapter 2 of NAT of Virtual Box to CLIENT01 also adds default route to itself. 
+- Adding Adapter 2 of NAT of Virtual Box to CLIENT01 also adds default route to itself. Due to that Administrative Distance may be changed unintentionally.
