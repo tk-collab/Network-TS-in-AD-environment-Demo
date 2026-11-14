@@ -3,6 +3,8 @@
 - VirtualBox
 - GNS3  
 ![スクリーンショット](https://github.com/user-attachments/assets/a6af688c-3232-4c37-81f7-a697263ff7b3)
+- DC01
+![スクリーンショット](https://github.com/user-attachments/assets/d80e56bc-17db-4609-9778-a35c46cc7ef2)
 
 ## Results
 - AD confirmation  
